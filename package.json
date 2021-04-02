@@ -1,0 +1,29 @@
+{
+  "name": "leakybucket",
+  "version": "1.0.0",
+  "description": "simple and efficient leaky bucket implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcort/leakybucket.git"
+  },
+  "keywords": [
+    "leaky",
+    "bucket",
+    "rate",
+    "limit"
+  ],
+  "author": "Thomas Cort <linuxgeek@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcort/leakybucket/issues"
+  },
+  "homepage": "https://github.com/tcort/leakybucket#readme",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^8.3.2"
+  }
+}
