@@ -1,5 +1,5 @@
 {
-  "name": "leakybucket",
+  "name": "@tcort/leakybucket",
   "version": "1.0.1",
   "description": "simple and efficient leaky bucket implementation",
   "main": "index.js",
