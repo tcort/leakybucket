@@ -9,7 +9,7 @@ This leaky bucket allows up to 2 drips in a 5 second window.
 ```
 'use strict';
 
-const LeakyBucket = require('leakybucket');
+const LeakyBucket = require('@tcort/leakybucket');
 
                                /* capacity */ /* window     */
 const bucket = new LeakyBucket(      2       ,   5000 /* ms */);
